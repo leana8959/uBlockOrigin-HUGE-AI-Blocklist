@@ -80,6 +80,8 @@
 0.0.0.0 smokingrobot.ai
 0.0.0.0 dreamtavern.ai
 0.0.0.0 civit.ai
+0.0.0.0 studyx.ai
+0.0.0.0 studley.ai
 0.0.0.0 100xgrowth.ai
 0.0.0.0 replicate.ai
 0.0.0.0 stability.ai
@@ -357,6 +359,7 @@
 
 
 # [.com sites]
+0.0.0.0 studyraid.com
 0.0.0.0 appypie.com
 0.0.0.0 aicreate.com
 0.0.0.0 toolbaz.com
@@ -1226,6 +1229,7 @@
 0.0.0.0 www.smokingrobot.ai
 0.0.0.0 www.dreamtavern.ai
 0.0.0.0 www.civit.ai
+0.0.0.0 www.studley.ai
 0.0.0.0 www.100xgrowth.ai
 0.0.0.0 www.replicate.ai
 0.0.0.0 www.stability.ai
@@ -1502,6 +1506,7 @@
 
 
 # [.com sites]
+0.0.0.0 www.studyraid.com
 0.0.0.0 www.appypie.com
 0.0.0.0 www.aicreate.com
 0.0.0.0 www.toolbaz.com
